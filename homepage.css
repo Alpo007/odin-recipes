@@ -52,8 +52,8 @@
 
 .button {
     position: absolute;
-    top: 355px;
-    right: 160px;
+    top: 450px;
+    right: 90px;
     color: white;
     border: solid 4px #EEEFE0;
     font-size: 16px;
@@ -73,6 +73,7 @@
     position: absolute;
     margin: 30px;
     margin-right: 410px;
+    margin-top: 80px;
     font-size: 30px;
     color: white;
 }

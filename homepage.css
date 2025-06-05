@@ -20,13 +20,23 @@
 
 .pesto {
     margin-top: 10px;
-    width: 400px;
+    width: 800px;
     height: auto;
     border: solid 3px #EEEFE0;
 }
 
 .pestotext {
     color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: #A7C1A8;
+    border: solid 4px #EEEFE0;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.neapolitan {
+       color: white;
     text-align: center;
     font-weight: bold;
     background-color: #A7C1A8;

@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    background-color: #819A91;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#headline {
+    color: white;
+    text-decoration: underline;
+    background-color: #A7C1A8;
+    text-align: center;
+    margin: 0;
+    font-weight: 1000;
+    font-size: 50px;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border: solid 8px #EEEFE0;
+}
+
+.pesto {
+    margin-top: 10px;
+    width: 400px;
+    height: auto;
+    border: solid 3px #EEEFE0;
+}
+
+.pestotext {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: #A7C1A8;
+    border: solid 4px #EEEFE0;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.button {
+    position: absolute;
+    color: white;
+    border: solid 4px #EEEFE0;
+    top: 412px;
+    right: 3%;
+    font-size: 16px;
+    padding: 8px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 35px;
+}
+
+.button:hover{
+    background-color: grey;
+}
+
+.pestodescription {
+    display: inline;
+    position: absolute;
+    margin: 30px;
+    font-size: 20px;
+    color: white;
+}

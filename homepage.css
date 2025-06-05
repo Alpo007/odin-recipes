@@ -9,7 +9,7 @@
     text-decoration: underline;
     background-color: #A7C1A8;
     text-align: center;
-    margin: 0;
+    margin-left: 250px;
     font-weight: 1000;
     font-size: 50px;
     padding: 10px;
@@ -20,7 +20,8 @@
 
 .pesto {
     margin-top: 10px;
-    width: 800px;
+    margin-left: 400px;
+    width: 500px;
     height: auto;
     border: solid 3px #EEEFE0;
 }
@@ -33,29 +34,34 @@
     border: solid 4px #EEEFE0;
     font-size: 30px;
     margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 .neapolitan {
-       color: white;
+    color: white;
     text-align: center;
     font-weight: bold;
     background-color: #A7C1A8;
     border: solid 4px #EEEFE0;
     font-size: 30px;
     margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 .button {
     position: absolute;
+    top: 355px;
+    right: 160px;
     color: white;
     border: solid 4px #EEEFE0;
-    top: 412px;
-    right: 3%;
     font-size: 16px;
     padding: 8px;
     cursor: pointer;
     text-align: center;
     font-size: 35px;
+    margin-right: 400px;;
 }
 
 .button:hover{
@@ -66,6 +72,7 @@
     display: inline;
     position: absolute;
     margin: 30px;
-    font-size: 20px;
+    margin-right: 410px;
+    font-size: 30px;
     color: white;
 }

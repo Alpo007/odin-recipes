@@ -1,17 +1,19 @@
 *{
     box-sizing: border-box;
-    background-color: rgb(234, 234, 234);
+    background-color: #819A91;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 .title{
-    color: black;
+    color: #EEEFE0;
+    font-weight: 1000;
+    background-color: #A7C1A8;
     text-decoration: underline;
     text-align: center;
     margin: 0;
     padding: 1%;
-    margin: 0 40% 0 40%;
-    border: solid 8px black;
+    margin: 0 10% 0 10%;
+    border: solid 8px #D1D8BE;
 }
 
 .pestoimg{

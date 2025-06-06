@@ -6,6 +6,7 @@
 
 .title{
     color: #EEEFE0;
+    font-size: 60px;
     font-weight: 1000;
     background-color: #A7C1A8;
     text-decoration: underline;
@@ -16,7 +17,33 @@
     border: solid 8px #D1D8BE;
 }
 
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container .title.pesto{
+    align-items: top;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 40px;
+}
+
 .pestoimg{
-    width: 400px;
+    width: 40%;
+    margin-top: 10px;
+    border: solid 8px #D1D8BE;
     height: auto;
+    float: left;
+}
+
+.description{
+    color: #EEEFE0;
+    display: inline-block;
+    border: solid 8px #D1D8BE;
+    background-color: #A7C1A8;
+    font-size: 20px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    margin-left: 10px;
 }

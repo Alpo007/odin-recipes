@@ -40,6 +40,7 @@ body {
     text-decoration: underline;
     border: solid 4px #A7C1A8;
     font-weight: 800;
+    flex: 1;
 }
 
 .img{
@@ -47,14 +48,17 @@ body {
     min-width: 100px;
     border: solid 4px #A7C1A8;
     margin: -4px;
+    flex: 0 1 auto;
 }
 
 #hummusimg{
     height: 375px;
     min-width: 100px;
+    flex: 0 1 auto;
     border: solid 4px #A7C1A8;
     margin: -4px;
 }
+
 
 .titlerecipe{
     color: #EEEFE0;

@@ -44,14 +44,14 @@ body {
 
 .img{
     width: 500px;
-    min-height: auto;
+    min-width: 100px;
     border: solid 4px #A7C1A8;
     margin: -4px;
 }
 
 #hummusimg{
     height: 375px;
-    min-width: auto;
+    min-width: 100px;
     border: solid 4px #A7C1A8;
     margin: -4px;
 }
